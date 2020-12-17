@@ -1,0 +1,4 @@
+Hello World
+Hello people
+The sys module provides functions and variables used to manipulate different parts of the Python runtime environment.
+This module provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
